@@ -12,7 +12,6 @@
 
     ```bash
     $ ./v2ray uuid
-    514ebdf7-8e76-a4f9-2504-6f682fea5c41
     ```
 
 3. 修改配置文件为：
@@ -26,7 +25,7 @@
           "settings": {
             "clients": [
               {
-                "id": "514ebdf7-8e76-a4f9-2504-6f682fea5c41",
+                "id": "UUID",
                 "alterId": 0
               }
             ]
@@ -82,7 +81,7 @@
 
 1. 打开 [https://zjurule.xyz](https://zjurule.xyz)
 
-2. 添加 `vmess://ws:514ebdf7-8e76-a4f9-2504-6f682fea5c41-0@127.0.0.1:8000#ZJU-WS`
+2. 添加 `vmess://ws:UUID-0@127.0.0.1:8000#ZJU-WS`
 
 3. 生成订阅链接并添加到 Clash
 
