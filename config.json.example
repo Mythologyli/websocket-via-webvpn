@@ -1,0 +1,10 @@
+{
+    "host": "127.0.0.1",
+    "port": 8000,
+    "username": "",
+    "password": "",
+    "websocket_host": "10.10.98.98",
+    "websocket_port": 80,
+    "websocket_ssl": false,
+    "websocket_path": "/",
+}
