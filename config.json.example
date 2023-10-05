@@ -6,5 +6,5 @@
     "websocket_host": "10.10.98.98",
     "websocket_port": 80,
     "websocket_ssl": false,
-    "websocket_path": "/",
+    "websocket_path": "/"
 }
