@@ -76,7 +76,7 @@
     $ ./websocket-via-webvpn -config config.json
     ```
 
-4. 此时可以通过本机的 `127.0.0.1:8080` 访问内网中的 VMess 服务端
+4. 此时可以通过本机的 `127.0.0.1:8000` 访问内网中的 VMess 服务端
 
 ### 可选步骤：添加到 [ZJU Rule](https://github.com/Mythologyli/ZJU-Rule)
 
