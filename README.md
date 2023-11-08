@@ -77,16 +77,6 @@
 
 4. 此时可以通过本机的 `127.0.0.1:8000` 访问内网中的 VMess 服务端
 
-### 可选步骤：添加到 [ZJU Rule](https://github.com/Mythologyli/ZJU-Rule)
-
-1. 打开 [https://zjurule.xyz](https://zjurule.xyz)
-
-2. 添加 `vmess://ws:UUID-0@127.0.0.1:8000#ZJU-WS`
-
-3. 生成订阅链接并添加到 Clash
-
-4. 在规则中将 ZJU 内网和 ZJU More Scholar 配置为 ZJU-WS
-
 ## 致谢
 
 - [websocketproxy](https://github.com/pretty66/websocketproxy)
